@@ -1,0 +1,6 @@
+projectKey=org.sonarqube.NasaMCT1.7.3
+serverUrl=http://localhost:9000
+serverVersion=6.4.0.25310
+dashboardUrl=http://localhost:9000/dashboard/index/org.sonarqube.NasaMCT1.7.3
+ceTaskId=AVyTcaN_J746nmlvjv78
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AVyTcaN_J746nmlvjv78
